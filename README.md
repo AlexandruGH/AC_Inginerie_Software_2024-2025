@@ -88,6 +88,9 @@
 
 
 ### Practice
-- [3 Design Patterns Examples Implementation from each category](https://refactoring.guru/design-patterns/catalog)
+- [Java Multithreading Tutorial (Play with extra speed)](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+
+### Homework
+- [2 Design Patterns Examples Implementation from each category. i.e. Factory Method, Abstract Factory, Adapter, Proxy, Observer, Strategy](https://refactoring.guru/design-patterns/catalog)
 
 
