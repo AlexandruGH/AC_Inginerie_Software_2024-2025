@@ -74,15 +74,18 @@
 - [Primitive vs Wrapper types - Autoboxing vs Unboxing](https://konstantinmb.medium.com/understanding-primitive-types-and-wrapper-classes-in-java-a-comprehensive-guide-6013c6b1c87)
 - [Dependency Injection Explained in 15 seconds.](https://www.youtube.com/watch?v=J1f5b4vcxCQ&ab_channel=CodeAesthetic)
 - [Dependency Injection and history explained. First 10 minutes of video are more relevant. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw&ab_channel=GoogleforDevelopers)
-- [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 - [Thread Safe with double checking Singleton in JAVA](https://www.baeldung.com/java-singleton-double-checked-locking)
+- [Singleton Breakdown Explanation](https://www.digitalocean.com/community/tutorials/java-singleton-design-pattern-best-practices-examples?fbclid=IwZXh0bgNhZW0CMTAAAR0NrdtG7M5gR9itACy5d2tZFtCkdmxlNlC8AXPw-ym7_HcS8PRzfAENu8s_aem_FQSAd6PRGvf1xbFUzhEm8Q)
+- [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 - [Hyperthreading](https://www.youtube.com/watch?v=wnS50lJicXc&t=202s&ab_channel=Techquickie)
-- [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
-- [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 - [final keyword in JAVA](https://www.baeldung.com/java-final)
 - [static keyword in JAVA](https://www.baeldung.com/java-static)
 - [Immutability - Functional Programming with JAVA](https://belief-driven-design.com/functional-programming-with-java-immutability-ae3372311b9/)
+- [Java Order of Execution of Initialization Blocks and Constructors](https://www.geeksforgeeks.org/order-execution-initialization-blocks-constructors-java/?fbclid=IwZXh0bgNhZW0CMTAAAR2bvuAR0iLUIRBFbH7ZCxcvVOiudr81Cbfmhh6hs-r8ktgwP9cFfJ_wzwA_aem_NLKH_NFshj7ArD_Zpr4GWw)
 - [Java. Pass by Value vs Pass by Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
+- [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+
 
 ### Practice
 - [3 Design Patterns Examples Implementation from each category](https://refactoring.guru/design-patterns/catalog)
