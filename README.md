@@ -94,3 +94,39 @@
 - [2 Design Patterns Examples Implementation from each category. i.e. Factory Method, Abstract Factory, Adapter, Proxy, Observer, Strategy](https://refactoring.guru/design-patterns/catalog)
 
 
+## Laborator 4 - Design Patterns & Layers
+
+### Story
+- [Clean Code Talks "Global States and Singletons"](https://www.youtube.com/watch?v=-FRm3VPhseI&ab_channel=GoogleTechTalks)
+
+### Theory 
+- [Java is Pass by Value](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [Java Shallow Copy vs Deep Copy](https://www.baeldung.com/cs/deep-vs-shallow-copy)
+- [Java Immutability](https://www.baeldung.com/java-immutable-object)
+- [POJO vs Java Bean](https://www.baeldung.com/java-pojo-class)
+- [Why almost everyone gets a POJO wrong?](https://www.youtube.com/watch?v=oqPiEc2zNb0&ab_channel=CodingwithJohn)
+- [Layers Software Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [Why is Singleton considered an anti-pattern?](https://medium.com/aia-sg-techblog/why-singleton-pattern-is-considered-as-anti-design-pattern-c81dd8b7e757)
+- [Oracle JDK vs OpenJDK](https://www.baeldung.com/oracle-jdk-vs-openjdk)
+
+### Practice
+
+- [SOLID Homework Exercises Solved](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/solid/solid/solvedSolid)
+- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
+ 
+- [Lab code project - each group has its own branch](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/grupa30234/Grupa_30234)
+
+#### MySQL installation 
+- [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
+- [XAMPP Installation - make sure mysql is started](https://www.apachefriends.org/)
+- [TCP View Installation - allows you to see ports and close down applications](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
+- [How to find mysql installation path](https://sqlbak.com/blog/how-to-find-path-to-mysql-installation-directory-on-windows-and-add-it-to-path-environment-variable/)
+- [In order for mysql command to work in terminal we must add it to the PATH. Add MYSQL_PATH/bin to PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+- [IntelliJ Database view plugin](https://www.jetbrains.com/help/idea/2023.1/database-tool-window.html)
+
+#### MySQL Dependency for Gradle
+- [MySQL Dependency for Gradle. To include in the dependencies block from build.gradle.](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.33)
+
+#### MySQL Tutorial
+
+- [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
