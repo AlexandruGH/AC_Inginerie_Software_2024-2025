@@ -311,4 +311,11 @@
 - [Ngrok for tunneling traffic](https://ngrok.com/download)
 - [Great nmap hacker tutorial](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 - [Nmap - Hacker mode on - for your local home network](https://nmap.org/download.html#windows)
+  
+#### Chat Application example 
+### Practice
+- [MultiThreading in Java Tutorial: syncronized, volatile, Thread Pools, locks, Runnable, Callable, Future](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+- [Ngrok for tunneling traffic](https://ngrok.com/download)
+- [Great nmap hacker tutorial](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+- [Nmap - Hacker mode on - for your local home network](https://nmap.org/download.html#windows)
 #### Chat Application example 
