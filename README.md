@@ -322,7 +322,9 @@
 Compile and Run from the command line:
 
 javac -d ./out/ ./package_name/sub_package_name/*.java
+
 cd out
+
 java package_name.sub_package_name.ExampleClassName
 
 
