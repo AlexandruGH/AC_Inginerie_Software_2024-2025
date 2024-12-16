@@ -362,4 +362,5 @@ https://www.youtube.com/watch?v=N2sskKGnCqc
 - [Actor Model Explained](https://youtu.be/ELwEdb_pD0k?si=F3a0PrClOydJlj6l)
 
 ### Practice
-
+- [Postman Tutorial](https://youtu.be/CLG0ha_a0q8?si=xpkUZ4fv_q7lbTYp)
+- [Postman tutorial Instructions: Get, Post, Put, Delete, Authentication](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
