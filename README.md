@@ -425,6 +425,7 @@ https://www.youtube.com/watch?v=N2sskKGnCqc
 
 ### Practice
 - [Spring Boot & React & MySql & Docker & JWT Web Application](https://youtu.be/VFVI1svmy04?si=BXlac-I8yMqrH1FJ)
+- [Deploy a Full Stack Spring Boot & React App with Database for FREE](https://youtu.be/jBDTsf8jsEs?si=1E76OBUnpBmF9Z9W)
 - [HTML & CSS Tutorial](https://youtu.be/HGTJBPNC-Gw?si=KcyKxZqCxK1xuzks)
 - [JavaScript Tutorial](https://youtu.be/lfmg-EJ8gm4?si=-IRshS1wYWVzwrGI)
 - [React Tutorial](https://youtu.be/CgkZ7MvWUAA?si=kUKhQ2CQ5I9qhUeH)
