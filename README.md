@@ -412,6 +412,15 @@ https://www.youtube.com/watch?v=N2sskKGnCqc
 
 - [CV Software Intern Examples](https://www.beamjobs.com/resumes/software-engineer-intern-resume-examples)
 
+### Algorithmic Interview Problems
+- [Best Time to Buy and Sell Stock](https://youtu.be/3EehPI_BkFk?si=iApeMxANG2oOKILO)
+- [Longest Increasing Subsequence - GeeksForGeeks](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
+- [Longest Increasing Subsequence - Video](https://www.youtube.com/watch?v=CE2b_-XfVDk&ab_channel=TusharRoy-CodingMadeSimple)
+- [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
+- [Kruskal Minimum Spanning Tree - Check also Disjoint set forest implementation](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+- [K’th Smallest Element in Unsorted Array](https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array/)
+- [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/?ref=header_outind)
+
 ### Theory 
 
 - [101 Web Development Concepts you should know](https://youtu.be/erEgovG9WBs?si=4rXRKqvHH79WNqtB)
